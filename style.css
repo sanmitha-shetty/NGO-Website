@@ -1,8 +1,4 @@
 
-/* Universal Start */
-
-
-
 *{
     margin: 0;
     padding: 0;
@@ -17,7 +13,6 @@
 .secondary{
     color: orange;
 }
-
 
 img-responsive{
     width: 1000px
@@ -52,16 +47,6 @@ button a{
     text-decoration: none;
     color: #fff;
 }
-
-
-
-/* Universal End*/
-/* <!-- -- 
-----
-------
---------
------------ --> */
-/* <!-- Nav Section Start --> */
 
  .navBar{
     position: sticky;
@@ -156,16 +141,12 @@ button a{
 section.about{
     background-image: url('../img/7.png');
     background-repeat: no-repeat;
-    /* background-position: center; */
-    /* width: 100vw; */
-    /* border: 2px solid; */
     background-size: cover;
     
 }
 
 .aboutMain{
     display: flex;
-    /* border: 2px solid; */
     margin: 0 5%;
     margin-top: 10%;
     
@@ -228,4 +209,3 @@ section.footer{
     color: #fff;
     padding: 2% 0;
 }
-/* footer end */
